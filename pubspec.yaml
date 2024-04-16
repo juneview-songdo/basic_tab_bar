@@ -3,7 +3,7 @@ description: "Basic tab bar with June"
 #publish_to: 'none'
 #repository: https://github.com/melodysdreamj/juneflow
 
-version: 1.0.1
+version: 1.0.2
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
